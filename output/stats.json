@@ -1,0 +1,102 @@
+{
+  "records": 3242,
+  "days_covered": 12,
+  "date_range": [
+    "2026-10-05",
+    "2026-10-17"
+  ],
+  "total_revenue": 171700,
+  "avg_wait_overall": 7.6,
+  "peak_day_hour": [
+    "Monday",
+    "1:00 PM",
+    102.0
+  ],
+  "worst_slot_wait": [
+    "Monday",
+    "1:00 PM",
+    13.22
+  ],
+  "best_slot_wait": [
+    "Friday",
+    "9:00 AM",
+    2.42
+  ],
+  "peak_hour_overall": [
+    "1:00 PM",
+    11.58
+  ],
+  "quiet_hour_overall": [
+    "4:00 PM",
+    2.96
+  ],
+  "avg_wait_by_hour": {
+    "9:00 AM": 3.15,
+    "10:00 AM": 3.33,
+    "11:00 AM": 5.65,
+    "12:00 PM": 7.08,
+    "1:00 PM": 11.58,
+    "2:00 PM": 7.5,
+    "3:00 PM": 4.3,
+    "4:00 PM": 2.96
+  },
+  "orders_by_day": {
+    "Monday": 638,
+    "Tuesday": 652,
+    "Wednesday": 623,
+    "Thursday": 652,
+    "Friday": 438,
+    "Saturday": 239
+  },
+  "top5_items": {
+    "Samosa": 846,
+    "Tea": 643,
+    "Maggi": 612,
+    "Chole Bhature": 538,
+    "Veg Sandwich": 456
+  },
+  "revenue_by_category": {
+    "Beverages": 28490,
+    "Meals": 90860,
+    "Snacks": 52350
+  },
+  "revenue_share": {
+    "Beverages": 16.6,
+    "Meals": 52.9,
+    "Snacks": 30.5
+  },
+  "best_times": {
+    "Monday": [
+      "3:00 PM",
+      4.68
+    ],
+    "Tuesday": [
+      "3:00 PM",
+      4.6
+    ],
+    "Wednesday": [
+      "3:00 PM",
+      4.49
+    ],
+    "Thursday": [
+      "3:00 PM",
+      4.74
+    ],
+    "Friday": [
+      "3:00 PM",
+      3.14
+    ],
+    "Saturday": [
+      "3:00 PM",
+      2.53
+    ]
+  },
+  "median_wait_by_day": {
+    "Monday": 7.4,
+    "Tuesday": 8.0,
+    "Wednesday": 7.0,
+    "Thursday": 8.5,
+    "Friday": 6.25,
+    "Saturday": 4.0
+  }
+}
